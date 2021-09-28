@@ -11,6 +11,6 @@ namespace $safeprojectname$
 		Console.WriteLine("Hello World!");
 		Console.WriteLine("I just added this in Visual Studio");
 		Console.WriteLine("I also just added this in Visual Studio");
-
+		Console.WriteLine("This line added to show the staging area.");
 	}
 }
